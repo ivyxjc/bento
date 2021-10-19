@@ -211,7 +211,7 @@
     "iso_checksum": "ae6d563d2444665316901fe7091059ac34b8f67ba30f9159f7cef7d2fdc5bf8a",
     "iso_name": "debian-11.0.0-amd64-netinst.iso",
     "memory": "1024",
-    "mirror": "http://cdimage.debian.org/cdimage/release",
+    "mirror": "http://cdimage.debian.org/cdimage/archive",
     "mirror_directory": "11.0.0/amd64/iso-cd",
     "name": "debian-11.0",
     "no_proxy": "{{env `no_proxy`}}",
